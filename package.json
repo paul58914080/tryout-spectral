@@ -8,5 +8,8 @@
   "license": "MIT",
   "devDependencies": {
     "@stoplight/spectral": "^6.5.0"
+  },
+  "scripts": {
+    "spectral-lint": "spectral lint -r spectral.yaml sample-api.yaml"
   }
 }

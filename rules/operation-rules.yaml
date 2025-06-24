@@ -1,0 +1,9 @@
+rules:
+  operation-description-required:
+    description: Each operation must have a description
+    message: 'Operation is missing a description.'
+    given: $.paths[*][*]
+    then:
+      field: description
+      function: truthy
+

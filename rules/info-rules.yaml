@@ -1,0 +1,8 @@
+rules:
+  info-title-not-empty:
+    description: Info object must have a non-empty title
+    message: 'The info.title must not be empty.'
+    given: $.info.title
+    then:
+      function: truthy
+
