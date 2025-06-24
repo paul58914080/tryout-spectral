@@ -1,0 +1,9 @@
+{
+  "name": "tryout-spectral",
+  "version": "1.0.0",
+  "description": "Spectral custom ruleset tryouts",
+  "main": "index.js",
+  "repository": "https://github.com/paul58914080/tryout-spectral",
+  "author": "Paul Williams <paul58914080@gmail.com>",
+  "license": "MIT"
+}
