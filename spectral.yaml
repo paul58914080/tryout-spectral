@@ -1,4 +1,5 @@
 extends:
+  - [ spectral:oas, recommended ]
   - ./rules/info-rules.yaml
   - ./rules/operation-rules.yaml
 
