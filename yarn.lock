@@ -920,7 +920,7 @@
     lodash "~4.17.21"
     tslib "^2.8.1"
 
-"@stoplight/spectral-runtime@^1.0.0", "@stoplight/spectral-runtime@^1.1.0", "@stoplight/spectral-runtime@^1.1.2":
+"@stoplight/spectral-runtime@^1.0.0", "@stoplight/spectral-runtime@^1.1.0", "@stoplight/spectral-runtime@^1.1.2", "@stoplight/spectral-runtime@^1.1.4":
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/@stoplight/spectral-runtime/-/spectral-runtime-1.1.4.tgz#6e6f69169d352732b0a9b95e0cc151605c510042"
   integrity sha512-YHbhX3dqW0do6DhiPSgSGQzr6yQLlWybhKwWx0cqxjMwxej3TqLv3BXMfIUYFKKUqIwH4Q2mV8rrMM8qD2N0rQ==
